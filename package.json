@@ -1,0 +1,19 @@
+{
+  "name": "jsandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "userData.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PraveenaPrasannan4789/JSandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PraveenaPrasannan4789/JSandbox/issues"
+  },
+  "homepage": "https://github.com/PraveenaPrasannan4789/JSandbox#readme"
+}
