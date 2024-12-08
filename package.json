@@ -2,7 +2,7 @@
   "name": "jsandbox",
   "version": "1.0.0",
   "description": "",
-  "main": "userData.js",
+  "main": "objectOrder.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
